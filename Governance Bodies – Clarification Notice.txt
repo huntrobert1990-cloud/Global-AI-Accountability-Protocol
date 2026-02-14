@@ -1,0 +1,18 @@
+Governance Bodies – Clarification Notice
+Conceptual Oversight Entities
+Certain governance bodies referenced within this framework — including the IAEB (International AI Ethics Board) and related oversight structures — are conceptual entities proposed within the GAAP model.
+They are not currently established legal organizations, nor do they represent existing institutions, regulatory authorities, or formal alliances.
+These entities are included to illustrate how a structured, multi-layered oversight system could function if adopted at national or international levels.
+No claim of affiliation, endorsement, or operational existence is implied.
+Intent of Inclusion
+The purpose of these proposed bodies is to:
+Demonstrate institutional architecture for accountability
+Provide structural models for certification and escalation
+Offer a blueprint for future implementation
+They serve as framework components, not active governing authorities.
+Ongoing Revision
+Future versions of GAAP may:
+Replace conceptual bodies with references to existing institutions
+Refine their structure
+Remove them entirely based on community critique
+
