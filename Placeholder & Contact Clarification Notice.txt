@@ -1,0 +1,17 @@
+Placeholder & Contact Clarification Notice
+Status of External References
+Certain external organizations, oversight bodies, and contact links included in earlier versions of this document were intended as conceptual placeholders for proposed governance structures within the GAAP framework.
+They were not meant to imply formal affiliation, endorsement, or verified institutional partnership.
+Some links may not resolve because they were illustrative examples representing future or proposed oversight entities. These references will be corrected, replaced, or removed in future revisions.
+Current Review Status
+The Global AI Accountability Protocol (GAAP) is currently:
+A public draft
+Not formally peer reviewed
+Not institutionally endorsed
+Open for critique and collaboration
+The framework is being developed transparently and iteratively.
+Contact for Clarification
+For questions, corrections, collaboration inquiries, or to report inaccuracies, please contact:
+Robert Hunt
+Email: hunt.robert1990@gmail.com
+
